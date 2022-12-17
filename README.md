@@ -6,9 +6,11 @@ This little API is a very basic CRUD using PHP and SQL. It's a project made alon
 
 ## See the API in action
 
-- First, set your sql database as shown in [here](https://github.com/valmarath/simple-api-php/blob/main/config_and_example/databaseconfig.png).
+- The easiest way will to test it will be with an apache server and a sql database running in your machine, locally;
+
+- First, set your sql database as shown in [here](https://github.com/valmarath/simple-api-php/blob/main/config_and_example/databaseconfig.png);
 
 - Second, access [REST test test...](https://resttesttest.com/) on your browser;
 
-- Then, you will be already setted up to test the API, as done in [here](https://github.com/valmarath/simple-api-php/blob/main/config_and_example/example.JPG) for example;
+- Then, you will be already setted up to test the API, as done in [here](https://github.com/valmarath/simple-api-php/blob/main/config_and_example/example.JPG) for example.
 
